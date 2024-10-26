@@ -3,7 +3,7 @@ import json
 import telebot
 
 ## TOKEN DETAILS
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # Replace with your bot's token
+BOT_TOKEN = "7465775302:AAHpcywPC2cHvPu3gGyXzHiNMkpPuvNIrzM"  # Replace with your bot's token
 
 # Initialize the bot
 bot = telebot.TeleBot(BOT_TOKEN)
