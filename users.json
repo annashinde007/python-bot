@@ -1,24 +1,11 @@
 {
-    "checkin": {
-    },
-    "withd": {
-    },
-    "DailyQuiz": {
-    },
-    "id": {
-    },
-    "total": 0,
-    "referred": {
-    },
-    "referby": {
-    },
-    "balance": {
-    },
-    "wallet": {
-    },
-    "refer": {
-    },
-    "totalwith": 0
+    "users": {
+        "annashinde007": {
+            "total_amount": 7098.15,
+            "credit": 0,
+            "debit": 0,
+            "balance": 7098.15
+        }
+    }
 }
-
 
